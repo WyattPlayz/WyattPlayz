@@ -1,4 +1,4 @@
-#Peace Contract
+# Peace Contract
 
 Any time a person is referred to Party 1, that is me (WyattPlayzPC)
 Any time a person is referred to Party 2, that is you.
