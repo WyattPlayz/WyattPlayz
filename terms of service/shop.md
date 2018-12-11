@@ -1,4 +1,4 @@
-#Terms Of Service
+# Terms Of Service
 
 By using this service you are agreeing that:
   - You will not exploit in bugs / glitches in the program.
