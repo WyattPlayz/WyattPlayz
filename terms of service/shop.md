@@ -8,4 +8,4 @@ By using this service you are agreeing that:
 
 By breaking any if the above guidelines:
   - A Warning will be given if the action is not severe
-  - If warning is ignored or acton is severe,
+  - If warning is ignored or acton is severe, you will ne blacklisted from using the shop.
